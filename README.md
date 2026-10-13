@@ -2,7 +2,7 @@
 
 [English](README.en.md)
 
-由 FileMint 维护的第三方 Homebrew Cask，复用 GitHub Release 中经过签名和公证的原始 DMG。支持 M 系列 Mac、macOS 13 Ventura 或更新版本；Cask 的 `arm64` 检查不能区分 M 系列与其他 Apple 芯片。本 tap 不属于 Homebrew 官方 Cask 仓库。
+FileMint 官方维护的 Homebrew tap，提供使用 GitHub Release 原始签名、公证 DMG 的 FileMint Cask。支持 M 系列 Mac、macOS 13 Ventura 或更新版本；Cask 的 `arm64` 检查不能区分 M 系列与其他 Apple 芯片。此 tap 尚未收录进 Homebrew 官方 Cask 仓库。
 
 本 tap 提供已公开的 FileMint Cask。首次安装请使用下面的命令；现有手动安装的迁移，以及升级、卸载后的 Finder 行为仍待隔离环境验收。其他安装方式见 [FileMint 安装指引](https://filemintapp.github.io/FileMint/install)。
 

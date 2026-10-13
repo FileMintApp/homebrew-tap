@@ -2,8 +2,7 @@ cask "filemint" do
   version "0.7.0"
   sha256 "ad1e52082e1443ca2cfcac56eb3c795feede57e8d6cb44504a3820a759aa16d1"
 
-  url "https://github.com/FileMintApp/FileMint/releases/download/v#{version}/FileMint-#{version}.dmg",
-      verified: "github.com/FileMintApp/FileMint/"
+  url "https://github.com/FileMintApp/FileMint/releases/download/v#{version}/FileMint-#{version}.dmg"
   name "FileMint"
   desc "Create files and use file tools from Finder"
   homepage "https://filemintapp.github.io/FileMint/"

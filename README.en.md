@@ -2,7 +2,7 @@
 
 [简体中文](README.md)
 
-A FileMint-maintained third-party Homebrew Cask using the original signed and notarized GitHub Release DMG. FileMint supports M-series Macs running macOS 13 Ventura or later; the Cask's `arm64` check cannot distinguish M-series from other Apple silicon. This is not the official Homebrew Cask repository.
+The official FileMint Homebrew tap provides a Cask using the original signed and notarized GitHub Release DMG. FileMint supports M-series Macs running macOS 13 Ventura or later; the Cask's `arm64` check cannot distinguish M-series from other Apple silicon. This tap has not been added to Homebrew's own Cask repository.
 
 This tap provides a public FileMint Cask. Use the command below for a fresh installation. Migration from an existing manual installation and Finder behavior after upgrade or removal still await isolated native acceptance. See the [FileMint installation guide](https://filemintapp.github.io/FileMint/en/install) for other installation methods.
 
