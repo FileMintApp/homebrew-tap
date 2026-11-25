@@ -1,6 +1,6 @@
 cask "filemint" do
-  version "0.8.3"
-  sha256 "8cd0be550f0b87a73a5408a9220829e6947cf2a657fc81448506080aef8c2757"
+  version "0.8.4"
+  sha256 "37d47f3fb0bfde0a5cb02012ad5085fc10e5d1f885949daa72fb585589859a18"
 
   url "https://github.com/FileMintApp/FileMint/releases/download/v#{version}/FileMint-#{version}.dmg"
   name "FileMint"
